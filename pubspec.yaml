@@ -1,6 +1,7 @@
 name: mebabl_content
 description: Content and posts SDK for Mebabl Platform.
 version: 1.0.0
+repository: https://github.com/aliMerdan110/mebabl_content
 
 environment:
   sdk: ">=3.8.0 <4.0.0"
